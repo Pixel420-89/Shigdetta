@@ -11,7 +11,7 @@ shigdetta's codebase is platform-agnostic, but you need a platform-specific load
 * Root - [ShigdettaXposed](https://github.com/vendetta-mod/VendettaXposed/releases/latest)
 * Non-root - [ShigdettaManager](https://github.com/vendetta-mod/VendettaManager/releases/latest)
     - Manager not working? No problem! Pre-built APKs are provided [here](https://discord.k6.tf/).
-    - The minimum Android version required is 9. It will not work any lower.
+    - The minimum Shigdroid version required is 9. It will not work any lower.
 
 ### iOS
 * Jailbroken - [ShigdettaTweak](https://github.com/vendetta-mod/VendettaTweak)
