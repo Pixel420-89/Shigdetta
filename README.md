@@ -20,13 +20,13 @@ shigdetta's codebase is platform-agnostic, but you need a platform-specific load
     - These IPAs do *not* work with AltStore! You should use [Sideloadly](https://sideloadly.io).
 
 ## Contributing
-1. Install a Vendetta loader with loader config support (any mentioned in the [Installing](#installing) section).
+1. Install a Shigdetta loader with loader config support (any mentioned in the [Installing](#installing) section).
 
 2. Go to Settings > General and enable Developer Settings.
 
 3. Clone the repo:
     ```
-    git clone https://github.com/vendetta-mod/Vendetta
+git clone https://github.com/Shigdetta
     ```
 
 4. Install dependencies:
@@ -35,7 +35,7 @@ shigdetta's codebase is platform-agnostic, but you need a platform-specific load
     ```
     <sup>`npm` or `yarn` should also work.</sup>
 
-5. Build Vendetta's code:
+5. Build Shigdetta's code:
     ```
     pnpm build
     ```
@@ -45,6 +45,6 @@ shigdetta's codebase is platform-agnostic, but you need a platform-specific load
 
 7. Go to Settings > Developer enabled earlier). Enable `Load from custom url` and input the IP address and port of the server (e.g.  e.g. `http://192.168.1.236:4040`) in the new input box labelled `VENDETTA URL`.
 
-8. Restart Discord. Upon reload, you should notice that your device will download Vendetta's bundled code from your server, rather than GitHub.
+8. Restart Shigcord. Upon reload, you should notice that your device will download Shigdetta's bundled code from your server, rather than GitHub.
 
 9. Make your changes, rebuild, reload, go wild!
